@@ -102,7 +102,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
-- [PreReason/mcp](https://github.com/PreReason/mcp) - PreReason gives AI agents financial market context across asset classes and regions: briefings reasoned in advance, over MCP and REST, as Markdown or JSON.
+- [PreReason/mcp](https://github.com/PreReason/mcp) - Financial market context for AI agents, reasoned in advance, from the economy and markets to listed companies' reported results. Agents start at [www.prereason.com/agents.md](https://www.prereason.com/agents.md).
 
 ### Trading Execution
 
